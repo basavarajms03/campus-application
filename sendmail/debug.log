@@ -1,0 +1,432 @@
+19/09/08 00:58:10 ** --- MESSAGE BEGIN ---
+19/09/08 00:58:10 ** To: basavaraj.sangur12345@gmail.com
+19/09/08 00:58:10 ** Subject: Campus Recruitment
+19/09/08 00:58:10 ** From: pverify03@gmail.com
+19/09/08 00:58:10 ** MIME-Version: 1.0
+19/09/08 00:58:10 ** Content-type: text/html; charset=utf-8
+19/09/08 00:58:10 ** 
+19/09/08 00:58:10 ** <p style="font-family:verdana">Hi</p>
+19/09/08 00:58:10 **                 <p>Thank you for registering campus recruitment system</p>
+19/09/08 00:58:10 **                 <p>Your username and password as shown below</p>
+19/09/08 00:58:10 **                 <p><b>Username</b> &nbsp; : &nbsp; Basavaraj<br>
+19/09/08 00:58:10 **                 <b>Password</b> &nbsp; : &nbsp; Password</p>
+19/09/08 00:58:10 ** --- MESSAGE END ---
+19/09/08 00:58:10 ** Connecting to smtp.gmail.com:465
+19/09/08 00:58:11 ** Connected.
+19/09/08 00:58:13 << 220 smtp.gmail.com ESMTP z6sm8871604pgk.18 - gsmtp<EOL>
+19/09/08 00:58:13 >> EHLO localhost<EOL>
+19/09/08 00:58:13 << 250-smtp.gmail.com at your service, [202.131.157.41]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/08 00:58:13 ** Authenticating as pverify03@gmail.com
+19/09/08 00:58:13 >> AUTH LOGIN<EOL>
+19/09/08 00:58:13 << 334 VXNlcm5hbWU6<EOL>
+19/09/08 00:58:13 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/08 00:58:13 << 334 UGFzc3dvcmQ6<EOL>
+19/09/08 00:58:13 >> IXFhenhzd0A=<EOL>
+19/09/08 00:58:14 << 235 2.7.0 Accepted<EOL>
+19/09/08 00:58:14 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/08 00:58:14 << 250 2.1.0 OK z6sm8871604pgk.18 - gsmtp<EOL>
+19/09/08 00:58:14 >> RCPT TO: <basavaraj.sangur12345@gmail.com><EOL>
+19/09/08 00:58:14 << 250 2.1.5 OK z6sm8871604pgk.18 - gsmtp<EOL>
+19/09/08 00:58:14 >> DATA<EOL>
+19/09/08 00:58:15 << 354  Go ahead z6sm8871604pgk.18 - gsmtp<EOL>
+19/09/08 00:58:15 >> Date: Sun, 8 Sep 2019 00:58:15 +0530<EOL>
+19/09/08 00:58:15 >> To: basavaraj.sangur12345@gmail.com<EOL>
+19/09/08 00:58:15 >> Subject: Campus Recruitment<EOL>
+19/09/08 00:58:15 >> From: pverify03@gmail.com<EOL>
+19/09/08 00:58:15 >> MIME-Version: 1.0<EOL>
+19/09/08 00:58:15 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/08 00:58:15 >> <EOL>
+19/09/08 00:58:15 >> <p style="font-family:verdana">Hi</p><EOL>
+19/09/08 00:58:15 >>                 <p>Thank you for registering campus recruitment system</p><EOL>
+19/09/08 00:58:15 >>                 <p>Your username and password as shown below</p><EOL>
+19/09/08 00:58:15 >>                 <p><b>Username</b> &nbsp; : &nbsp; Basavaraj<br><EOL>
+19/09/08 00:58:15 >>                 <b>Password</b> &nbsp; : &nbsp; Password</p><EOL>
+19/09/08 00:58:15 >> .<EOL>
+19/09/08 00:58:15 << 250 2.0.0 OK  1567884492 z6sm8871604pgk.18 - gsmtp<EOL>
+19/09/08 00:58:15 >> QUIT<EOL>
+19/09/08 00:58:16 << 221 2.0.0 closing connection z6sm8871604pgk.18 - gsmtp<EOL>
+19/09/08 00:58:16 ** Disconnected.
+19/09/08 00:58:16 ** Disconnected.
+19/09/08 00:58:16 ** Disconnected.
+19/09/08 01:03:09 ** --- MESSAGE BEGIN ---
+19/09/08 01:03:09 ** To: basavaraj.sangur12345@gmail.com
+19/09/08 01:03:09 ** Subject: Campus Recruitment
+19/09/08 01:03:09 ** From: pverify03@gmail.com
+19/09/08 01:03:09 ** MIME-Version: 1.0
+19/09/08 01:03:09 ** Content-type: text/html; charset=utf-8
+19/09/08 01:03:09 ** 
+19/09/08 01:03:09 ** <p style="font-family:verdana">Hi</p>
+19/09/08 01:03:09 **                 <p>Thank you for registering campus recruitment system</p>
+19/09/08 01:03:09 **                 <p>Your username and password as shown below</p>
+19/09/08 01:03:09 **                 <p><b>Username</b> &nbsp; : &nbsp; Basavaraj<br>
+19/09/08 01:03:09 **                 <b>Password</b> &nbsp; : &nbsp; Password</p>
+19/09/08 01:03:09 ** --- MESSAGE END ---
+19/09/08 01:03:09 ** Connecting to smtp.gmail.com:465
+19/09/08 01:03:09 ** Connected.
+19/09/08 01:03:09 << 220 smtp.gmail.com ESMTP k14sm10491742pfi.98 - gsmtp<EOL>
+19/09/08 01:03:09 >> EHLO localhost<EOL>
+19/09/08 01:03:10 << 250-smtp.gmail.com at your service, [202.131.157.41]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/08 01:03:10 ** Authenticating as pverify03@gmail.com
+19/09/08 01:03:10 >> AUTH LOGIN<EOL>
+19/09/08 01:03:10 << 334 VXNlcm5hbWU6<EOL>
+19/09/08 01:03:10 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/08 01:03:10 << 334 UGFzc3dvcmQ6<EOL>
+19/09/08 01:03:10 >> IXFhenhzd0A=<EOL>
+19/09/08 01:03:10 << 235 2.7.0 Accepted<EOL>
+19/09/08 01:03:10 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/08 01:03:11 << 250 2.1.0 OK k14sm10491742pfi.98 - gsmtp<EOL>
+19/09/08 01:03:11 >> RCPT TO: <basavaraj.sangur12345@gmail.com><EOL>
+19/09/08 01:03:11 << 250 2.1.5 OK k14sm10491742pfi.98 - gsmtp<EOL>
+19/09/08 01:03:11 >> DATA<EOL>
+19/09/08 01:03:11 << 354  Go ahead k14sm10491742pfi.98 - gsmtp<EOL>
+19/09/08 01:03:11 >> Date: Sun, 8 Sep 2019 01:03:11 +0530<EOL>
+19/09/08 01:03:11 >> To: basavaraj.sangur12345@gmail.com<EOL>
+19/09/08 01:03:11 >> Subject: Campus Recruitment<EOL>
+19/09/08 01:03:11 >> From: pverify03@gmail.com<EOL>
+19/09/08 01:03:11 >> MIME-Version: 1.0<EOL>
+19/09/08 01:03:11 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/08 01:03:11 >> <EOL>
+19/09/08 01:03:11 >> <p style="font-family:verdana">Hi</p><EOL>
+19/09/08 01:03:11 >>                 <p>Thank you for registering campus recruitment system</p><EOL>
+19/09/08 01:03:11 >>                 <p>Your username and password as shown below</p><EOL>
+19/09/08 01:03:11 >>                 <p><b>Username</b> &nbsp; : &nbsp; Basavaraj<br><EOL>
+19/09/08 01:03:11 >>                 <b>Password</b> &nbsp; : &nbsp; Password</p><EOL>
+19/09/08 01:03:11 >> .<EOL>
+19/09/08 01:03:12 << 250 2.0.0 OK  1567884792 k14sm10491742pfi.98 - gsmtp<EOL>
+19/09/08 01:03:12 >> QUIT<EOL>
+19/09/08 01:03:12 << 221 2.0.0 closing connection k14sm10491742pfi.98 - gsmtp<EOL>
+19/09/08 01:03:12 ** Disconnecting from smtp.gmail.com:465
+19/09/08 01:03:12 ** Disconnected.
+19/09/08 01:03:12 ** Disconnected.
+19/09/08 13:56:02 ** --- MESSAGE BEGIN ---
+19/09/08 13:56:02 ** To: shriyakulkarni16.m@gmail.com
+19/09/08 13:56:02 ** Subject: Campus Recruitment
+19/09/08 13:56:02 ** From: pverify03@gmail.com
+19/09/08 13:56:02 ** MIME-Version: 1.0
+19/09/08 13:56:02 ** Content-type: text/html; charset=utf-8
+19/09/08 13:56:02 ** 
+19/09/08 13:56:02 ** <div style="font-family:times"><h3 style="text-align:center;color:#00A99D;border-bottom:3px solid navy;font-family:times">Campus Recruitment</h3><p style="font-family:times;text-align:center">Hi</p>
+19/09/08 13:56:02 **                 <p style="text-align:center">Thank you for registering campus recruitment system.Your username and password as shown below,
+19/09/08 13:56:02 **                 use the below credentials to login to campus recruitment system. Do not share your credentials to
+19/09/08 13:56:02 **                 any one.</p>
+19/09/08 13:56:02 **                 <p><b>Company ID</b> &nbsp; : &nbsp; Shre1111<br>
+19/09/08 13:56:02 **                 <b>Password</b> &nbsp; : &nbsp; 599419</p></div>
+19/09/08 13:56:02 ** --- MESSAGE END ---
+19/09/08 13:56:02 ** Connecting to smtp.gmail.com:465
+19/09/08 13:56:03 ** Connected.
+19/09/08 13:56:03 << 220 smtp.gmail.com ESMTP z19sm9443372pgv.35 - gsmtp<EOL>
+19/09/08 13:56:03 >> EHLO localhost<EOL>
+19/09/08 13:56:04 << 250-smtp.gmail.com at your service, [202.131.157.41]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/08 13:56:04 ** Authenticating as pverify03@gmail.com
+19/09/08 13:56:04 >> AUTH LOGIN<EOL>
+19/09/08 13:56:04 << 334 VXNlcm5hbWU6<EOL>
+19/09/08 13:56:04 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/08 13:56:04 << 334 UGFzc3dvcmQ6<EOL>
+19/09/08 13:56:04 >> IXFhenhzd0A=<EOL>
+19/09/08 13:56:04 << 235 2.7.0 Accepted<EOL>
+19/09/08 13:56:04 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/08 13:56:05 << 250 2.1.0 OK z19sm9443372pgv.35 - gsmtp<EOL>
+19/09/08 13:56:05 >> RCPT TO: <shriyakulkarni16.m@gmail.com><EOL>
+19/09/08 13:56:05 << 250 2.1.5 OK z19sm9443372pgv.35 - gsmtp<EOL>
+19/09/08 13:56:05 >> DATA<EOL>
+19/09/08 13:56:05 << 354  Go ahead z19sm9443372pgv.35 - gsmtp<EOL>
+19/09/08 13:56:05 >> Date: Sun, 8 Sep 2019 13:56:05 +0530<EOL>
+19/09/08 13:56:05 >> To: shriyakulkarni16.m@gmail.com<EOL>
+19/09/08 13:56:05 >> Subject: Campus Recruitment<EOL>
+19/09/08 13:56:05 >> From: pverify03@gmail.com<EOL>
+19/09/08 13:56:05 >> MIME-Version: 1.0<EOL>
+19/09/08 13:56:05 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/08 13:56:05 >> <EOL>
+19/09/08 13:56:05 >> <div style="font-family:times"><h3 style="text-align:center;color:#00A99D;border-bottom:3px solid navy;font-family:times">Campus Recruitment</h3><p style="font-family:times;text-align:center">Hi</p><EOL>
+19/09/08 13:56:05 >>                 <p style="text-align:center">Thank you for registering campus recruitment system.Your username and password as shown below,<EOL>
+19/09/08 13:56:05 >>                 use the below credentials to login to campus recruitment system. Do not share your credentials to<EOL>
+19/09/08 13:56:05 >>                 any one.</p><EOL>
+19/09/08 13:56:05 >>                 <p><b>Company ID</b> &nbsp; : &nbsp; Shre1111<br><EOL>
+19/09/08 13:56:05 >>                 <b>Password</b> &nbsp; : &nbsp; 599419</p></div><EOL>
+19/09/08 13:56:05 >> .<EOL>
+19/09/08 13:56:06 << 250 2.0.0 OK  1567931166 z19sm9443372pgv.35 - gsmtp<EOL>
+19/09/08 13:56:06 >> QUIT<EOL>
+19/09/08 13:56:06 << 221 2.0.0 closing connection z19sm9443372pgv.35 - gsmtp<EOL>
+19/09/08 13:56:06 ** Disconnected.
+19/09/08 13:56:06 ** Disconnected.
+19/09/08 13:56:06 ** Disconnected.
+19/09/11 22:57:36 ** --- MESSAGE BEGIN ---
+19/09/11 22:57:36 ** To: basavaraj.sangur12345@gmail.com
+19/09/11 22:57:36 ** Subject: Campus Recruitment
+19/09/11 22:57:36 ** From: pverify03@gmail.com
+19/09/11 22:57:36 ** MIME-Version: 1.0
+19/09/11 22:57:36 ** Content-type: text/html; charset=utf-8
+19/09/11 22:57:36 ** 
+19/09/11 22:57:36 ** <p style="font-family:verdana">Hi</p>
+19/09/11 22:57:36 **                 <p>Thank you for registering campus recruitment system</p>
+19/09/11 22:57:36 **                 <p>Your username and password as shown below</p>
+19/09/11 22:57:36 **                 <p><b>Username</b> &nbsp; : &nbsp; 2SD15IS402<br>
+19/09/11 22:57:36 **                 <b>Password</b> &nbsp; : &nbsp; 612704</p>
+19/09/11 22:57:36 ** --- MESSAGE END ---
+19/09/11 22:57:36 ** Connecting to smtp.gmail.com:465
+19/09/11 22:57:37 ** Connected.
+19/09/11 22:57:37 << 220 smtp.gmail.com ESMTP y7sm22316740pfl.119 - gsmtp<EOL>
+19/09/11 22:57:37 >> EHLO localhost<EOL>
+19/09/11 22:57:37 << 250-smtp.gmail.com at your service, [202.131.150.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/11 22:57:37 ** Authenticating as pverify03@gmail.com
+19/09/11 22:57:37 >> AUTH LOGIN<EOL>
+19/09/11 22:57:37 << 334 VXNlcm5hbWU6<EOL>
+19/09/11 22:57:37 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/11 22:57:38 << 334 UGFzc3dvcmQ6<EOL>
+19/09/11 22:57:38 >> IXFhenhzd0A=<EOL>
+19/09/11 22:57:38 << 235 2.7.0 Accepted<EOL>
+19/09/11 22:57:38 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/11 22:57:39 << 250 2.1.0 OK y7sm22316740pfl.119 - gsmtp<EOL>
+19/09/11 22:57:39 >> RCPT TO: <basavaraj.sangur12345@gmail.com><EOL>
+19/09/11 22:57:39 << 250 2.1.5 OK y7sm22316740pfl.119 - gsmtp<EOL>
+19/09/11 22:57:39 >> DATA<EOL>
+19/09/11 22:57:40 << 354  Go ahead y7sm22316740pfl.119 - gsmtp<EOL>
+19/09/11 22:57:40 >> Date: Wed, 11 Sep 2019 22:57:40 +0530<EOL>
+19/09/11 22:57:40 >> To: basavaraj.sangur12345@gmail.com<EOL>
+19/09/11 22:57:40 >> Subject: Campus Recruitment<EOL>
+19/09/11 22:57:40 >> From: pverify03@gmail.com<EOL>
+19/09/11 22:57:40 >> MIME-Version: 1.0<EOL>
+19/09/11 22:57:40 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/11 22:57:40 >> <EOL>
+19/09/11 22:57:40 >> <p style="font-family:verdana">Hi</p><EOL>
+19/09/11 22:57:40 >>                 <p>Thank you for registering campus recruitment system</p><EOL>
+19/09/11 22:57:40 >>                 <p>Your username and password as shown below</p><EOL>
+19/09/11 22:57:40 >>                 <p><b>Username</b> &nbsp; : &nbsp; 2SD15IS402<br><EOL>
+19/09/11 22:57:40 >>                 <b>Password</b> &nbsp; : &nbsp; 612704</p><EOL>
+19/09/11 22:57:40 >> .<EOL>
+19/09/11 22:57:41 << 250 2.0.0 OK  1568222860 y7sm22316740pfl.119 - gsmtp<EOL>
+19/09/11 22:57:42 >> QUIT<EOL>
+19/09/11 22:57:47 << 221 2.0.0 closing connection y7sm22316740pfl.119 - gsmtp<EOL>
+19/09/11 22:57:47 ** Disconnected.
+19/09/11 22:57:47 ** Disconnected.
+19/09/11 22:57:47 ** Disconnected.
+19/09/11 23:26:19 ** --- MESSAGE BEGIN ---
+19/09/11 23:26:19 ** To: basavaraj.sangur12345@gmail.com
+19/09/11 23:26:19 ** Subject: Campus Recruitment
+19/09/11 23:26:19 ** From: pverify03@gmail.com
+19/09/11 23:26:19 ** MIME-Version: 1.0
+19/09/11 23:26:19 ** Content-type: text/html; charset=utf-8
+19/09/11 23:26:19 ** 
+19/09/11 23:26:19 ** <p style="font-family:verdana">Hi</p>
+19/09/11 23:26:19 **                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p>
+19/09/11 23:26:19 **                 <p>Please Login In To Your Portal and Check</p>
+19/09/11 23:26:19 ** --- MESSAGE END ---
+19/09/11 23:26:19 ** Connecting to smtp.gmail.com:465
+19/09/11 23:26:20 ** Connected.
+19/09/11 23:26:21 << 220 smtp.gmail.com ESMTP w11sm18107711pga.52 - gsmtp<EOL>
+19/09/11 23:26:21 >> EHLO localhost<EOL>
+19/09/11 23:26:22 << 250-smtp.gmail.com at your service, [202.131.150.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/11 23:26:22 ** Authenticating as pverify03@gmail.com
+19/09/11 23:26:22 >> AUTH LOGIN<EOL>
+19/09/11 23:26:22 << 334 VXNlcm5hbWU6<EOL>
+19/09/11 23:26:22 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/11 23:26:22 << 334 UGFzc3dvcmQ6<EOL>
+19/09/11 23:26:22 >> IXFhenhzd0A=<EOL>
+19/09/11 23:26:23 << 235 2.7.0 Accepted<EOL>
+19/09/11 23:26:23 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/11 23:26:23 << 250 2.1.0 OK w11sm18107711pga.52 - gsmtp<EOL>
+19/09/11 23:26:23 >> RCPT TO: <basavaraj.sangur12345@gmail.com><EOL>
+19/09/11 23:26:23 << 250 2.1.5 OK w11sm18107711pga.52 - gsmtp<EOL>
+19/09/11 23:26:23 >> DATA<EOL>
+19/09/11 23:26:24 << 354  Go ahead w11sm18107711pga.52 - gsmtp<EOL>
+19/09/11 23:26:24 >> Date: Wed, 11 Sep 2019 23:26:24 +0530<EOL>
+19/09/11 23:26:24 >> To: basavaraj.sangur12345@gmail.com<EOL>
+19/09/11 23:26:24 >> Subject: Campus Recruitment<EOL>
+19/09/11 23:26:24 >> From: pverify03@gmail.com<EOL>
+19/09/11 23:26:24 >> MIME-Version: 1.0<EOL>
+19/09/11 23:26:24 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/11 23:26:24 >> <EOL>
+19/09/11 23:26:24 >> <p style="font-family:verdana">Hi</p><EOL>
+19/09/11 23:26:24 >>                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p><EOL>
+19/09/11 23:26:24 >>                 <p>Please Login In To Your Portal and Check</p><EOL>
+19/09/11 23:26:24 >> .<EOL>
+19/09/11 23:26:25 << 250 2.0.0 OK  1568224585 w11sm18107711pga.52 - gsmtp<EOL>
+19/09/11 23:26:25 >> QUIT<EOL>
+19/09/11 23:26:26 << 221 2.0.0 closing connection w11sm18107711pga.52 - gsmtp<EOL>
+19/09/11 23:26:26 ** Disconnected.
+19/09/11 23:26:26 ** Disconnected.
+19/09/11 23:26:26 ** Disconnected.
+19/09/11 23:27:44 ** --- MESSAGE BEGIN ---
+19/09/11 23:27:44 ** To: basavaraj.sangur12345@gmail.com
+19/09/11 23:27:44 ** Subject: Campus Recruitment
+19/09/11 23:27:44 ** From: pverify03@gmail.com
+19/09/11 23:27:44 ** MIME-Version: 1.0
+19/09/11 23:27:44 ** Content-type: text/html; charset=utf-8
+19/09/11 23:27:44 ** 
+19/09/11 23:27:44 ** <p style="font-family:verdana">Hi</p>
+19/09/11 23:27:44 **                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p>
+19/09/11 23:27:44 **                 <p>Please Login In To Your Portal and Check</p>
+19/09/11 23:27:44 ** --- MESSAGE END ---
+19/09/11 23:27:45 ** Connecting to smtp.gmail.com:465
+19/09/11 23:27:45 ** Connected.
+19/09/11 23:27:46 << 220 smtp.gmail.com ESMTP 4sm3401293pja.29 - gsmtp<EOL>
+19/09/11 23:27:46 >> EHLO localhost<EOL>
+19/09/11 23:27:46 << 250-smtp.gmail.com at your service, [202.131.150.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/11 23:27:46 ** Authenticating as pverify03@gmail.com
+19/09/11 23:27:46 >> AUTH LOGIN<EOL>
+19/09/11 23:27:46 << 334 VXNlcm5hbWU6<EOL>
+19/09/11 23:27:46 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/11 23:27:46 << 334 UGFzc3dvcmQ6<EOL>
+19/09/11 23:27:46 >> IXFhenhzd0A=<EOL>
+19/09/11 23:27:47 << 235 2.7.0 Accepted<EOL>
+19/09/11 23:27:47 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/11 23:27:47 << 250 2.1.0 OK 4sm3401293pja.29 - gsmtp<EOL>
+19/09/11 23:27:47 >> RCPT TO: <basavaraj.sangur12345@gmail.com><EOL>
+19/09/11 23:27:47 << 250 2.1.5 OK 4sm3401293pja.29 - gsmtp<EOL>
+19/09/11 23:27:47 >> DATA<EOL>
+19/09/11 23:27:48 << 354  Go ahead 4sm3401293pja.29 - gsmtp<EOL>
+19/09/11 23:27:48 >> Date: Wed, 11 Sep 2019 23:27:48 +0530<EOL>
+19/09/11 23:27:48 >> To: basavaraj.sangur12345@gmail.com<EOL>
+19/09/11 23:27:48 >> Subject: Campus Recruitment<EOL>
+19/09/11 23:27:48 >> From: pverify03@gmail.com<EOL>
+19/09/11 23:27:48 >> MIME-Version: 1.0<EOL>
+19/09/11 23:27:48 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/11 23:27:48 >> <EOL>
+19/09/11 23:27:48 >> <p style="font-family:verdana">Hi</p><EOL>
+19/09/11 23:27:48 >>                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p><EOL>
+19/09/11 23:27:48 >>                 <p>Please Login In To Your Portal and Check</p><EOL>
+19/09/11 23:27:48 >> .<EOL>
+19/09/11 23:27:49 << 250 2.0.0 OK  1568224668 4sm3401293pja.29 - gsmtp<EOL>
+19/09/11 23:27:49 >> QUIT<EOL>
+19/09/11 23:27:49 << 221 2.0.0 closing connection 4sm3401293pja.29 - gsmtp<EOL>
+19/09/11 23:27:49 ** Disconnected.
+19/09/11 23:27:49 ** Disconnected.
+19/09/11 23:27:49 ** Disconnected.
+19/09/11 23:28:21 ** --- MESSAGE BEGIN ---
+19/09/11 23:28:21 ** To: basavaraj.sangur12345@gmail.com
+19/09/11 23:28:21 ** Subject: Campus Recruitment
+19/09/11 23:28:21 ** From: pverify03@gmail.com
+19/09/11 23:28:21 ** MIME-Version: 1.0
+19/09/11 23:28:21 ** Content-type: text/html; charset=utf-8
+19/09/11 23:28:21 ** 
+19/09/11 23:28:21 ** <p style="font-family:verdana">Hi</p>
+19/09/11 23:28:21 **                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p>
+19/09/11 23:28:21 **                 <p>Please Login In To Your Portal and Check</p>
+19/09/11 23:28:21 ** --- MESSAGE END ---
+19/09/11 23:28:21 ** Connecting to smtp.gmail.com:465
+19/09/11 23:28:22 ** Connected.
+19/09/11 23:28:22 << 220 smtp.gmail.com ESMTP i22sm606661pfa.70 - gsmtp<EOL>
+19/09/11 23:28:22 >> EHLO localhost<EOL>
+19/09/11 23:28:22 << 250-smtp.gmail.com at your service, [202.131.150.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/11 23:28:22 ** Authenticating as pverify03@gmail.com
+19/09/11 23:28:22 >> AUTH LOGIN<EOL>
+19/09/11 23:28:22 << 334 VXNlcm5hbWU6<EOL>
+19/09/11 23:28:22 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/11 23:28:23 << 334 UGFzc3dvcmQ6<EOL>
+19/09/11 23:28:23 >> IXFhenhzd0A=<EOL>
+19/09/11 23:28:23 << 235 2.7.0 Accepted<EOL>
+19/09/11 23:28:23 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/11 23:28:23 << 250 2.1.0 OK i22sm606661pfa.70 - gsmtp<EOL>
+19/09/11 23:28:23 >> RCPT TO: <basavaraj.sangur12345@gmail.com><EOL>
+19/09/11 23:28:23 << 250 2.1.5 OK i22sm606661pfa.70 - gsmtp<EOL>
+19/09/11 23:28:23 >> DATA<EOL>
+19/09/11 23:28:24 << 354  Go ahead i22sm606661pfa.70 - gsmtp<EOL>
+19/09/11 23:28:24 >> Date: Wed, 11 Sep 2019 23:28:24 +0530<EOL>
+19/09/11 23:28:24 >> To: basavaraj.sangur12345@gmail.com<EOL>
+19/09/11 23:28:24 >> Subject: Campus Recruitment<EOL>
+19/09/11 23:28:24 >> From: pverify03@gmail.com<EOL>
+19/09/11 23:28:24 >> MIME-Version: 1.0<EOL>
+19/09/11 23:28:24 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/11 23:28:24 >> <EOL>
+19/09/11 23:28:24 >> <p style="font-family:verdana">Hi</p><EOL>
+19/09/11 23:28:24 >>                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p><EOL>
+19/09/11 23:28:24 >>                 <p>Please Login In To Your Portal and Check</p><EOL>
+19/09/11 23:28:24 >> .<EOL>
+19/09/11 23:28:24 << 250 2.0.0 OK  1568224704 i22sm606661pfa.70 - gsmtp<EOL>
+19/09/11 23:28:24 >> QUIT<EOL>
+19/09/11 23:28:25 << 221 2.0.0 closing connection i22sm606661pfa.70 - gsmtp<EOL>
+19/09/11 23:28:25 ** Disconnected.
+19/09/11 23:28:25 ** Disconnected.
+19/09/11 23:28:25 ** Disconnected.
+19/09/11 23:45:02 ** --- MESSAGE BEGIN ---
+19/09/11 23:45:02 ** To: basavaraj.sangur12345@gmail.com
+19/09/11 23:45:02 ** Subject: Campus Recruitment
+19/09/11 23:45:02 ** From: pverify03@gmail.com
+19/09/11 23:45:02 ** MIME-Version: 1.0
+19/09/11 23:45:02 ** Content-type: text/html; charset=utf-8
+19/09/11 23:45:02 ** 
+19/09/11 23:45:02 ** <p style="font-family:verdana">Hi</p>
+19/09/11 23:45:02 **                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p>
+19/09/11 23:45:02 **                 <p>Please Login In To Your Portal and Check</p>
+19/09/11 23:45:02 ** --- MESSAGE END ---
+19/09/11 23:45:03 ** Connecting to smtp.gmail.com:465
+19/09/11 23:45:03 ** Connected.
+19/09/11 23:45:03 << 220 smtp.gmail.com ESMTP x20sm9323476pfa.153 - gsmtp<EOL>
+19/09/11 23:45:03 >> EHLO localhost<EOL>
+19/09/11 23:45:03 << 250-smtp.gmail.com at your service, [202.131.150.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/11 23:45:03 ** Authenticating as pverify03@gmail.com
+19/09/11 23:45:03 >> AUTH LOGIN<EOL>
+19/09/11 23:45:04 << 334 VXNlcm5hbWU6<EOL>
+19/09/11 23:45:04 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/11 23:45:04 << 334 UGFzc3dvcmQ6<EOL>
+19/09/11 23:45:04 >> IXFhenhzd0A=<EOL>
+19/09/11 23:45:04 << 235 2.7.0 Accepted<EOL>
+19/09/11 23:45:04 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/11 23:45:05 << 250 2.1.0 OK x20sm9323476pfa.153 - gsmtp<EOL>
+19/09/11 23:45:05 >> RCPT TO: <basavaraj.sangur12345@gmail.com><EOL>
+19/09/11 23:45:05 << 250 2.1.5 OK x20sm9323476pfa.153 - gsmtp<EOL>
+19/09/11 23:45:05 >> DATA<EOL>
+19/09/11 23:45:05 << 354  Go ahead x20sm9323476pfa.153 - gsmtp<EOL>
+19/09/11 23:45:05 >> Date: Wed, 11 Sep 2019 23:45:05 +0530<EOL>
+19/09/11 23:45:05 >> To: basavaraj.sangur12345@gmail.com<EOL>
+19/09/11 23:45:05 >> Subject: Campus Recruitment<EOL>
+19/09/11 23:45:05 >> From: pverify03@gmail.com<EOL>
+19/09/11 23:45:05 >> MIME-Version: 1.0<EOL>
+19/09/11 23:45:05 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/11 23:45:05 >> <EOL>
+19/09/11 23:45:05 >> <p style="font-family:verdana">Hi</p><EOL>
+19/09/11 23:45:05 >>                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p><EOL>
+19/09/11 23:45:05 >>                 <p>Please Login In To Your Portal and Check</p><EOL>
+19/09/11 23:45:05 >> .<EOL>
+19/09/11 23:45:07 << 250 2.0.0 OK  1568225706 x20sm9323476pfa.153 - gsmtp<EOL>
+19/09/11 23:45:07 >> QUIT<EOL>
+19/09/11 23:45:07 << 221 2.0.0 closing connection x20sm9323476pfa.153 - gsmtp<EOL>
+19/09/11 23:45:07 ** Disconnected.
+19/09/11 23:45:07 ** Disconnected.
+19/09/11 23:45:07 ** Disconnected.
+19/09/11 23:45:59 ** --- MESSAGE BEGIN ---
+19/09/11 23:45:59 ** To: basavaraj.sangur12345@gmail.com
+19/09/11 23:45:59 ** Subject: Campus Recruitment
+19/09/11 23:45:59 ** From: pverify03@gmail.com
+19/09/11 23:45:59 ** MIME-Version: 1.0
+19/09/11 23:45:59 ** Content-type: text/html; charset=utf-8
+19/09/11 23:45:59 ** 
+19/09/11 23:45:59 ** <p style="font-family:verdana">Hi</p>
+19/09/11 23:45:59 **                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p>
+19/09/11 23:45:59 **                 <p>Please Login In To Your Portal and Check</p>
+19/09/11 23:45:59 ** --- MESSAGE END ---
+19/09/11 23:45:59 ** Connecting to smtp.gmail.com:465
+19/09/11 23:46:00 ** Connected.
+19/09/11 23:46:00 << 220 smtp.gmail.com ESMTP e192sm32195439pfh.83 - gsmtp<EOL>
+19/09/11 23:46:00 >> EHLO localhost<EOL>
+19/09/11 23:46:00 << 250-smtp.gmail.com at your service, [202.131.150.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+19/09/11 23:46:00 ** Authenticating as pverify03@gmail.com
+19/09/11 23:46:00 >> AUTH LOGIN<EOL>
+19/09/11 23:46:00 << 334 VXNlcm5hbWU6<EOL>
+19/09/11 23:46:00 >> cHZlcmlmeTAzQGdtYWlsLmNvbQ==<EOL>
+19/09/11 23:46:00 << 334 UGFzc3dvcmQ6<EOL>
+19/09/11 23:46:00 >> IXFhenhzd0A=<EOL>
+19/09/11 23:46:01 << 235 2.7.0 Accepted<EOL>
+19/09/11 23:46:01 >> MAIL FROM: <pverify03@gmail.com><EOL>
+19/09/11 23:46:01 << 250 2.1.0 OK e192sm32195439pfh.83 - gsmtp<EOL>
+19/09/11 23:46:01 >> RCPT TO: <basavaraj.sangur12345@gmail.com><EOL>
+19/09/11 23:46:01 << 250 2.1.5 OK e192sm32195439pfh.83 - gsmtp<EOL>
+19/09/11 23:46:01 >> DATA<EOL>
+19/09/11 23:46:02 << 354  Go ahead e192sm32195439pfh.83 - gsmtp<EOL>
+19/09/11 23:46:02 >> Date: Wed, 11 Sep 2019 23:46:02 +0530<EOL>
+19/09/11 23:46:02 >> To: basavaraj.sangur12345@gmail.com<EOL>
+19/09/11 23:46:02 >> Subject: Campus Recruitment<EOL>
+19/09/11 23:46:02 >> From: pverify03@gmail.com<EOL>
+19/09/11 23:46:02 >> MIME-Version: 1.0<EOL>
+19/09/11 23:46:02 >> Content-type: text/html; charset=utf-8<EOL>
+19/09/11 23:46:02 >> <EOL>
+19/09/11 23:46:02 >> <p style="font-family:verdana">Hi</p><EOL>
+19/09/11 23:46:02 >>                 <p>Your Resume Has Been Shortlisted For Campus Recruitment</p><EOL>
+19/09/11 23:46:02 >>                 <p>Please Login In To Your Portal and Check</p><EOL>
+19/09/11 23:46:02 >> .<EOL>
+19/09/11 23:46:03 << 250 2.0.0 OK  1568225762 e192sm32195439pfh.83 - gsmtp<EOL>
+19/09/11 23:46:03 >> QUIT<EOL>
+19/09/11 23:46:03 << 221 2.0.0 closing connection e192sm32195439pfh.83 - gsmtp<EOL>
+19/09/11 23:46:03 ** Disconnected.
+19/09/11 23:46:03 ** Disconnected.
+19/09/11 23:46:03 ** Disconnected.

@@ -1,0 +1,35 @@
+19/09/03 14:04:16 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor e185sm20969879pfa.119 - gsmtp<EOL>
+19/09/03 14:09:07 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials l31sm22352661pgm.63 - gsmtp<EOL>
+19/09/03 14:09:52 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials l6sm30586625pje.28 - gsmtp<EOL>
+19/09/03 14:11:19 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials h22sm442289pfn.59 - gsmtp<EOL>
+19/09/03 14:12:15 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials e129sm35533110pfa.92 - gsmtp<EOL>
+19/09/03 14:15:50 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials x20sm19101687pfp.120 - gsmtp<EOL>
+19/09/03 14:17:02 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials j17sm20427337pff.50 - gsmtp<EOL>
+19/09/03 14:18:15 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials c1sm15365611pfb.135 - gsmtp<EOL>
+19/09/03 14:18:57 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials s5sm1616187pfe.52 - gsmtp<EOL>
+19/09/03 14:19:58 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials u9sm10319852pfh.107 - gsmtp<EOL>
+19/09/03 14:20:12 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials x22sm709142pfi.139 - gsmtp<EOL>
+19/09/03 14:21:04 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials c2sm14423458pjs.13 - gsmtp<EOL>
+19/09/03 14:21:16 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials r1sm15079355pgv.70 - gsmtp<EOL>
+19/09/03 14:21:44 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials u10sm18202552pfn.94 - gsmtp<EOL>
+19/09/03 14:26:44 : Error connecting with SSL.<EOL>Error connecting with SSL.<EOL>error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+19/09/03 14:26:51 : Error connecting with SSL.<EOL>Error connecting with SSL.<EOL>error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+19/09/03 14:27:01 : Error connecting with SSL.<EOL>Error connecting with SSL.<EOL>error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+19/09/03 14:27:12 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials f74sm4060696pfa.34 - gsmtp<EOL>
+19/09/03 14:27:56 : Connect timed out.
+19/09/03 14:28:30 : Connect timed out.
+19/09/03 14:29:03 : Connect timed out.
+19/09/03 14:29:30 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials g2sm21208514pfm.32 - gsmtp<EOL>
+19/09/03 14:29:44 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials k25sm22936801pgt.53 - gsmtp<EOL>
+19/09/03 14:30:32 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials v189sm19020256pfv.176 - gsmtp<EOL>
+19/09/03 14:31:18 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials em21sm1733733pjb.31 - gsmtp<EOL>
+19/09/03 14:31:23 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials e24sm18685337pgk.21 - gsmtp<EOL>
+19/09/03 14:33:43 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials r4sm14616625pji.7 - gsmtp<EOL>
+19/09/03 14:35:13 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials h12sm14824844pgr.8 - gsmtp<EOL>
+19/09/03 14:45:36 : Socket Error # 11001<EOL>Host not found.
+19/09/03 14:45:44 : Socket Error # 11001<EOL>Host not found.
+19/09/03 14:45:48 : Socket Error # 11001<EOL>Host not found.
+19/09/03 14:45:51 : Socket Error # 11001<EOL>Host not found.
+19/09/03 14:46:07 : Socket Error # 11001<EOL>Host not found.
+19/09/07 15:50:20 : Please log in with your web browser and then try again. Learn more at<EOL> https://support.google.com/mail/?p=WebLoginRequired x8sm8505702pfn.106 - gsmtp<EOL>
+19/09/07 15:51:32 : Please log in with your web browser and then try again. Learn more at<EOL> https://support.google.com/mail/?p=WebLoginRequired 2sm16462719pfa.43 - gsmtp<EOL>
